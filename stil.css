@@ -1,0 +1,40 @@
+body {
+  background-image: radial-gradient(rgb(235, 232, 93), #f5a6f5);
+}
+.page-title {
+  margin-block-start: 0;
+  margin-block-end: 1rem;
+  font-family: "Noto Serif", serif;
+}
+.menu {
+  margin-block-end: 1rem;
+}
+.menu-item {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  padding: 0.4em 3em;
+  border-radius: 30px;
+  box-shadow: 5px 0px black;
+}
+.menu-item {
+  background-color: #eef5b0;
+}
+main.content-box {
+  width: 40rem;
+  height: 50rem;
+  padding: 40px;
+  background: rgba(252, 187, 248, 0.5);
+  margin: auto;
+  padding-block: 2em;
+  border: 10px;
+  box-shadow: 5px 5px 10px rgb(233, 243, 139);
+}
+.pasi {
+  color: black;
+  border-block: 0.1vmin solid;
+  border-inline: 0.1vmin solid;
+  height: 40rem;
+  font-size: 1rem;
+  padding: 0.4em 3em;
+}
